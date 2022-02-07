@@ -1,0 +1,27 @@
+html, body, .container, .blue{
+  background-color: lightskyblue;
+}
+
+.vertibird {
+    align-items: center;
+    display: flex;
+}
+
+.red {
+  padding:5px;
+  height: 2em;
+   background: rgb(216, 113, 113);
+   border: 3px solid lightskyblue;
+}
+
+.green {
+  padding:5px;
+  height: 2em;
+   background: rgb(7, 185, 7);
+   
+   border: 3px solid lightskyblue;
+}
+
+.col-xl-2{
+  padding:5px;
+}
